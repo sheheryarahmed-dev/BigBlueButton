@@ -77,9 +77,9 @@ WSGI_APPLICATION = 'Wrapper.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'BigBlueButton',
-        'USER': 'abdullah',
-        'PASSWORD': '1234',
+        'NAME': 'eventsdb',
+        'USER': 'sheheryar',
+        'PASSWORD': 'sheheryar64742',
         'HOST': 'localhost',
         'PORT': '',
     }
